@@ -4,6 +4,7 @@
       "flex-layout.row#slider",
       "shelf#new-arrivals",
       "shelf#clearance",
+      "_fold_",
       "flex-layout.row#newsletter",
       "rich-text#brands",
       "flex-layout.row#brands",
